@@ -178,6 +178,7 @@ Total books alive in library: 3
 
 ## Екранна снимка
 
+![](/image.png)
 
 ---
 
